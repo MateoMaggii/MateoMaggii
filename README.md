@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Mateo David Maggi</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas </br>
+<h3 align="right">Estudiante de Ingeniería en Sistemas </br>
   Soy apasionado por la programación y del mundo de la informática.</br>
   Me encanta aprender nuevas herramientas y lenguajes que me permitan resolver problemas de manera eficiente y creativa. </br>
   Actualmente en mi tiempo libre me estoy adentrando en el mundo del desarrollo web, lo cual me gusta ya que me ayuda con el diseño de paginas e interfaces</h3>
