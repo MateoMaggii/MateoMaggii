@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Mateo David Maggi</h1>
-<h2>Sobre mi :neckbeard:</h2>
+<h2>Sobre mi 🤓</h2>
 <h3 align="left">#Estudiante de Ingeniería en Sistemas💻 </br>
   #Soy apasionado por la programación y del mundo de la informática.</br>
   #Me encanta aprender nuevas herramientas y lenguajes que me permitan resolver problemas de manera eficiente y creativa. </br>
