@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo David Maggi</h1>
 <h3 align="center">Soy un estudiante de Ingeniería en Sistemas apasionado por la programación y del mundo de la informática. Me encanta aprender nuevas herramientas y lenguajes que me permitan resolver problemas de manera eficiente y creativa. Actualmente en mi tiempo libre me estoy adentrando en el mundo del desarrollo web, lo cual me gusta ya que me ayuda con el diseño</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/matemaggi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matemaggi18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mateo maggi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo maggi" height="30" width="40" /></a>
