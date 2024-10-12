@@ -3,8 +3,8 @@
 <p>
 - :books: Estudiante de Ingeniería en Sistemas </br>
 - :man_technologist: Soy apasionado por la programación y del mundo de la informática. </br>
-- Me encanta aprender nuevas herramientas y lenguajes que me permitan resolver problemas de manera eficiente y creativa. </br>
-- Actualmente en mi tiempo libre me estoy adentrando en el mundo del desarrollo web, lo cual me gusta ya que me ayuda con el diseño de paginas e interfaces 
+- 🛠 Me encanta aprender nuevas herramientas y lenguajes que me permitan resolver problemas de manera eficiente y creativa. </br>
+- :octocat: Actualmente en mi tiempo libre me estoy adentrando en el mundo del desarrollo web, lo cual me gusta ya que me ayuda con el diseño de paginas e interfaces 
 </p>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
