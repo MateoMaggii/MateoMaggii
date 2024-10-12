@@ -2,9 +2,9 @@
 <h2>Sobre mí <span><img height="24" width="24" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f913.gif" alt="emojinerd"/></span> :</h2>
 <p>
 - :man_technologist: Estudiante de Ingeniería en Sistemas </br>
-- Soy apasionado por la programación y del mundo de la informática.
-- Me encanta aprender nuevas herramientas y lenguajes que me permitan resolver problemas de manera eficiente y creativa.
-- Actualmente en mi tiempo libre me estoy adentrando en el mundo del desarrollo web, lo cual me gusta ya que me ayuda con el diseño de paginas e interfaces
+- Soy apasionado por la programación y del mundo de la informática. </br>
+- Me encanta aprender nuevas herramientas y lenguajes que me permitan resolver problemas de manera eficiente y creativa. </br>
+- Actualmente en mi tiempo libre me estoy adentrando en el mundo del desarrollo web, lo cual me gusta ya que me ayuda con el diseño de paginas e interfaces 
 </p>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
